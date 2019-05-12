@@ -5,7 +5,7 @@ This repository contains a dummy C++ code for RSA Cryptosystem.
 ## What is RSA ?
 
 RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and is widely used for secure data transmission. In such a cryptosystem, the encryption key is public and it is different from the decryption key which is kept secret (private).
-You can read more about RSA[https://en.wikipedia.org/wiki/RSA_(cryptosystem)] here.
+You can read more about [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) here.
 
 ### Why Dummy code ?
 
